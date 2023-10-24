@@ -12,5 +12,5 @@ if (mysqli_connect_errno()){
 }else {
     echo "conectado com sucesso.";
 }
-//(/)/
+//(/)/asidasji
 ?>
